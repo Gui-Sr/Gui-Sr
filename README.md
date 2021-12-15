@@ -21,6 +21,4 @@
     <a href="https://www.linkedin.com/in/guilherme-santos-rodrigues-738a951a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-    ![Sanke animation](https://github.com/danielbped/danielbped/blob/outpu/github-contribution-grid-snake.svg)
-</div>
+    ![Snake animation](https://github.com/Gui-Sr/Gui-Sr/blob/output/github-contribution-grid-snake.svg)

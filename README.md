@@ -23,5 +23,6 @@
 
 ##
 
- <img  src="https://github.com/Gui-Sr/Gui-Sr/blob/output/github-contribution-grid-snake.svg">
-
+<div align="center">
+    <img src="https://github.com/Gui-Sr/Gui-Sr/blob/output/github-contribution-grid-snake.svg">
+</div>

@@ -3,7 +3,7 @@
 <div>
     <a href="https://github.com/Gui-Sr"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-Sr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Sr&layout=compact&langs_count=16&theme=github_dark"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Sr&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div style="display: inline-block;"><br>
@@ -24,5 +24,5 @@
 ##
 
 <div align="center">
-    <img src="https://github.com/Gui-Sr/Gui-Sr/blob/output/github-contribution-grid-snake.svg">
+    <a src="https://github.com/Gui-Sr/Gui-Sr/blob/output/github-contribution-grid-snake.svg">
 </div>

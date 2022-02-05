@@ -1,6 +1,6 @@
 <h2>Olá! Eu sou o Guilherme Santos Rodrigues</h2>
 
-<div align="inline">
+<div align="center">
     <a href="https://github.com/Gui-Sr"></a>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gui-Sr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Sr&layout=compact&langs_count=16&theme=github_dark"/>

@@ -6,7 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-Sr&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
-<div style="text-align: center"><br>
+<div align="center"><br>
     <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Gui-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -17,12 +17,11 @@
 
 ##
 
-<div>
+<div align="center">
     <a href="mailto:guilhermesrcontato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/guilherme-santos-rodrigues-738a951a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/Gui-Sr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
-
-##
 
 <div align="center">
     <img src="https://github.com/Gui-Sr/Gui-Sr/blob/output/github-contribution-grid-snake.svg">
